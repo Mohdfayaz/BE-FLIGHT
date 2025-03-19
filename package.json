@@ -1,0 +1,20 @@
+{
+  "name": "be---flight",
+  "version": "1.0.0",
+  "description": "Back end flight booking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdfayaz/BE-FLIGHT.git"
+  },
+  "author": "Mohammed Fayaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdfayaz/BE-FLIGHT/issues"
+  },
+  "homepage": "https://github.com/Mohdfayaz/BE-FLIGHT#readme",
+  "description": ""
+}
